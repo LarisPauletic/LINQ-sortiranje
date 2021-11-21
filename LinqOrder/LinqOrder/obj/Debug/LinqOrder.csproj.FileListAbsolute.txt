@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\LinqOrder\LinqOrder\bin\Debug\LinqOrder.exe.config
+C:\Users\Laris\source\repos\LinqOrder\LinqOrder\bin\Debug\LinqOrder.exe
+C:\Users\Laris\source\repos\LinqOrder\LinqOrder\bin\Debug\LinqOrder.pdb
+C:\Users\Laris\source\repos\LinqOrder\LinqOrder\obj\Debug\LinqOrder.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\LinqOrder\LinqOrder\obj\Debug\LinqOrder.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\LinqOrder\LinqOrder\obj\Debug\LinqOrder.exe
+C:\Users\Laris\source\repos\LinqOrder\LinqOrder\obj\Debug\LinqOrder.pdb
